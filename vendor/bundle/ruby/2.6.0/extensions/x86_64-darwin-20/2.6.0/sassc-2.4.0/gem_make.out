@@ -1,11 +1,11 @@
-current directory: /Users/tokuhironoboru/Desktop/syukuhaku5/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/Users/tokuhironoboru/.rbenv/versions/2.6.6/bin/ruby -I /Users/tokuhironoboru/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210126-90266-24nipj.rb extconf.rb
+current directory: /Users/tokuhironoboru/Desktop/syukuhaku4/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+/Users/tokuhironoboru/.rbenv/versions/2.6.6/bin/ruby -I /Users/tokuhironoboru/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210125-58009-19vi4ah.rb extconf.rb
 creating Makefile
 
-current directory: /Users/tokuhironoboru/Desktop/syukuhaku5/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+current directory: /Users/tokuhironoboru/Desktop/syukuhaku4/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" clean
 
-current directory: /Users/tokuhironoboru/Desktop/syukuhaku5/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+current directory: /Users/tokuhironoboru/Desktop/syukuhaku4/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR="
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.bundle
 
-current directory: /Users/tokuhironoboru/Desktop/syukuhaku5/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
+current directory: /Users/tokuhironoboru/Desktop/syukuhaku4/syukuhaku/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210126-90266-z2uxgr/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210125-58009-1uizkfw/sassc
